@@ -1,0 +1,15 @@
+Package: mdk4
+Architecture: x86_64
+Installed-Size: 200
+Maintainer: @termux
+Version: 4.1
+Homepage: https://github.com/aircrack-ng/mdk4
+Depends: aircrack-ng, libnl, libpcap
+Description: MDK is a proof-of-concept tool to exploit common IEEE 802.11 protocol weaknesses.
+Filename: dists/termux/mdk4/binary-x86_64/mdk4_4.1_x86_64.deb
+Size: 57656
+MD5Sum: a459b818937af0aacaf92487292c203d
+SHA1: a47acd87911a6b401d01267c8fc3d21ba3842237
+SHA256: 40e931b35975a9f131caf95b163a8aa23062587ae6db704babc75e164e079f55
+SHA512: 26a0a64d19db08ede21cf211bcee56c6b3f99f3692d73f93162502ecbf95503d713e8edc2a56da1455c923641fbaae9ff6cf2bf8d577e60d65db5689f0ea26af
+
